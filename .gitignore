@@ -25,3 +25,18 @@ notes.txt
 *.njsproj
 *.sln
 *.sw?
+
+# AI-generated temporary files
+.ai-workspace/
+.continue/
+prompts/scratch/
+prompts/experiments/
+
+# Local notes
+notes-local.md
+todo-local.md
+
+# Model outputs
+tmp/
+generated/
+docs/
